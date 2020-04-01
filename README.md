@@ -1,3 +1,3 @@
 # Мур Мяу
 Мои проекты
-[Урок 12](https://freshbl00d.github.io/lesson_12/"Готовый проект")
+[Урок 12](https://freshbl00d.github.io/lesson_12/ "Готовый проект") - работа с репозиторием на github
